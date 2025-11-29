@@ -1,7 +1,7 @@
 package Services;
 
 import Entite.Personne;
-import Utlis.DataSource;
+import Utils.DataSource;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
